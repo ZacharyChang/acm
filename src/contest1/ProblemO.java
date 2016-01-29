@@ -1,4 +1,4 @@
-/**
+package contest1; /**
  Description
  打印Helloworld字符串是每一位ACMer的起点，然而随着每一位ACMer的成长，每一位ACMer进入了一个更高的层次，所要做的事情也越来越难，今天我们要做的就是从给出的字符串选取字符来尽量多的拼凑出Helloworld这个单词。
 
